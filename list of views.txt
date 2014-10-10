@@ -1,0 +1,21 @@
+1. Home - http://www.atthematch.com/new2/?page=home
+2. List of all articles (includes promo articles) - http://www.atthematch.com/new2/?page=category
+3. Specific articles from same category - http://www.atthematch.com/new2/?page=category
+4. Article page - http://www.atthematch.com/new2/?page=article
+5. Journalist page - all journalists - http://www.atthematch.com/new2/?page=journalists
+6. Journalist profile (+his articles) - http://www.atthematch.com/new2/?page=journalist_profile
+7. Registration page - http://www.atthematch.com/new2/?page=register
+7b. Confirm registration and Paypal payment - http://www.atthematch.com/new2/?page=register_confirm
+8. Login page - http://www.atthematch.com/new2/?page=login
+
+9. Journalist Dashboard (add article, list of articles, unaproved comments aprove-delete, Statistics)
+10. Add article
+11. Edit article
+12. Search result page - http://www.atthematch.com/new2/?page=search_result
+13. Admin dashboard (Create J, Upload video, generate promo code, statistics, list of journalists, users list, unaproved comments, list of articles)
+14. Create journalist page
+15. Edit journalist page
+16. List of users (readers)
+17. Personal user page
+18. List of articles
+
